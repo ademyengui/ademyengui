@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer networking and telecommunication at INSAT
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me linedin: Adem Yengui
-- ⚡ Fun fact: I can play chess blindfolded 
+
 
 <!---
 ademyengui/ademyengui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
